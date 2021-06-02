@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+*{
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    text-align: center;
+    color: #00e;
+}
+
+.left-pane{
+    padding-left: 20px;
+    /* background-color:black; */
+    max-width: 30%;
+    display: inline-block;
+    padding-right: 40px;
+    border-right-color: #00e;
+    border-right-width: 3px;
+    border-right-style: solid;
+    
+}
+
+.right-pane{
+    padding-left: 40px;
+    padding-right: 20px;
+    /* background-color: #777; */
+    display: inline-block;
+    position: fixed;
+    max-width: 40%;
+}
+
+.section-title {
+    /* background-color:#a00; */
+    padding-top: 8px;
+    font-size: 22px;
+    color:#00a;
+    padding-bottom: 8px;
+}
+
+.section-content {
+    /* background-color:#cc0; */
+    padding-bottom: 40px;
+}
+
+#academic{
+    padding-top: 200px;
+}
+
+.right-side-header {
+    font-size: 24px;
+    padding-bottom: 8px;
+}
+
+.section-subtitle {
+    font-size: 19px;
+    color: #00a;
+}
+
+.right-section-content {
+    font-size: 14px;
+}
+
+@media (min-width: 1366px) {
+
+    .left-pane {
+        max-width: 14%;
+    }
+
+    .right-pane {
+        max-width: 20%;
+    }
+}
