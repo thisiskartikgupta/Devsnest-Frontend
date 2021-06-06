@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    text-align: center;
+    background-color: #451e3e;
+    color:#eee;
+    font-size: 2rem;
+}
+
+h3{
+    font-size: 5rem;
+}
+
+.widget-container {
+    padding: 200px;
+}
+
+footer {
+    background-color: #451e3e;
+    color: #bbb;
+    text-align: center;
+}
