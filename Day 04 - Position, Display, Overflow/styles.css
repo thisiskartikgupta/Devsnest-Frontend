@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: black;
+    background-color:#111
 }
 
 header {
@@ -18,12 +18,66 @@ h3{
     font-size: 5rem;
 }
 
-.widget-container {
-    padding: 200px;
+
+
+main {
+    background: url("./img/layout_clock.png") no-repeat center;
+    background-size: 400px 400px;
+    background-repeat: no-repeat;
+    padding-left: 50%;
+    padding-top: 25%;
+    padding-bottom: 25%;
+}
+
+.hour-hand-hinge {
+    position: absolute;
+    transform: rotate(0deg);
+}
+
+.hour-hand {
+    position: absolute;
+    width: 100px;
+    max-width: 100px;
+    height: 5px;
+    max-height: 5px;
+    background-color: #ccc;
+    
+}
+
+.minute-hand-hinge {
+    position: absolute;
+    transform: rotate(0deg);
+}
+
+
+.minute-hand {
+    position: absolute;
+    width: 140px;
+    max-width: 140px;
+    height: 5px;
+    max-height: 5px;
+    background-color: #ddd;
+}
+
+.second-hand-hinge {
+    position: absolute;
+    transform: rotate(0deg);
+}
+
+.second-hand {
+    position: absolute;
+    width: 140px;
+    max-width: 140px;
+    height: 5px;
+    max-height: 5px;
+    background-color: #f00;
 }
 
 footer {
     background-color: #451e3e;
     color: #bbb;
     text-align: center;
+    position:fixed;
+    bottom: 0;
+    padding: 0% 45%;
 }
