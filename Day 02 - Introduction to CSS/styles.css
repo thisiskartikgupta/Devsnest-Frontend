@@ -1,12 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Oldenburg&family=Open+Sans:wght@600&display=swap');
+
 * {
     box-sizing: border-box;
     margin: 0;
 }
 
+body {
+    background-color: #ddd;
+}
+
 header h3 {
     background-color: #451e3e;
     color: #ddd;
-    font-size: 3.5rem;
+    font-size: 3rem;
     text-align: center;
     padding: 30px 20px;
+    font-family: 'Oldenburg', cursive;
+}
+
+main {
+    padding-top: 16px;
+    padding-left: 32px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
+
+@media(min-width: 1366px) {
+    main {
+        padding-left: 400px;
+    }
 }
