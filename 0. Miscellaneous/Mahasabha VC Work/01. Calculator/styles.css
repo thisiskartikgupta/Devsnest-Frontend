@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2:wght@700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: #caf0f8
+}
+
+header {
+    background-color: #03045e;
+    color: white;
+    font-family: 'Baloo Tammudu 2', cursive;
+    text-align: center;
+    font-size: 48px;
+    padding: 8px;
+}
+
+.io-container {
+    background-color: #023e8a;
+    margin: 10% 40%;
+    padding: 4%;
+    display: inline-block;
+    border-radius: 8%;
+}
+
+.first-number, .second-number {
+    background-color: #90e0ef;
+    color: #777;
+    font-size: 2rem;
+    width: 25rem;
+    height: 5rem;
+    text-align: right;
+}
+
+.output-container {
+    background-color: #48cae4;
+    color:#000;
+    font-size: 2rem;
+    width: 25rem;
+    height: 5rem;
+    text-align: right;
+}
+
+.button-container {
+    background-color: #023e8a;
+    display: inline-block;
+    padding: 4%;
+    border-radius: 8%;
+    margin-left : 40%;
+}
+
+.add-button, .subtract-button, .multiply-button, .divide-button {
+    background-color: #0077b6;
+    color: #fff;
+    width : 6rem;
+    height: 6rem;
+}
+
+footer {
+    background-color: #03045e;
+    color: #fff;
+    text-align: center;
+    position:fixed;
+    bottom: 0;
+    padding: 0% 45%;
+
+}
