@@ -28,3 +28,27 @@
      = Make an analog clock
 </h5>
 
+<h5>
+    <a href="https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2004%20-%20Position%2C%20Display%2C%20Overflow">
+        Day 05 : Introduction to Javascript
+    </a>
+     = NO THA , just the basics
+</h5>
+
+<h5>
+    <a href="https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2004%20-%20Position%2C%20Display%2C%20Overflow">
+        Day 06 : Introduction to Javascript
+    </a>
+     = Questions on JS
+</h5>
+
+### Mahasabha VC Session Work
+
+<h5>
+    <a href="https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/0.%20Miscellaneous/Mahasabha%20VC%20Work/01.%20Calculator">
+        A. Calculator with Javascript
+    </a>
+     = Create a calculator that does add, multiply, subtract etc. (with use of event Listeners)
+</h5>
+
+
