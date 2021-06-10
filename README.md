@@ -29,14 +29,14 @@
 </h5>
 
 <h5>
-    <a href="https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2004%20-%20Position%2C%20Display%2C%20Overflow">
+    <a href="https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2005%20-%20Introduction%20to%20Javascript">
         Day 05 : Introduction to Javascript
     </a>
      = NO THA , just the basics
 </h5>
 
 <h5>
-    <a href="https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2004%20-%20Position%2C%20Display%2C%20Overflow">
+    <a href="https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2006%20-%20Introduction%20to%20Javascript">
         Day 06 : Introduction to Javascript
     </a>
      = Questions on JS
