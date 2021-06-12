@@ -42,6 +42,15 @@
      = Questions on JS
 </h5>
 
+<h5>
+    <a href="https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2007%20-%20Objects%20in%20Javascript">
+        Day 07: Objects in JavaScript
+    </a>
+     = Questions on JS
+</h5>
+
+--- 
+
 ### Mahasabha VC Session Work
 
 <h5>
