@@ -56,6 +56,13 @@
      = Seat Book Counter
 </h5>
 
+<h5>
+    <a target="_blank" href="https://thisiskartikgupta.github.io/Seat-Book-Count-JS/">
+        Day 09: this keyword in JavaScript
+    </a>
+     = Seat Book Counter
+</h5>
+
 --- 
 
 ### Mahasabha VC Session Work
