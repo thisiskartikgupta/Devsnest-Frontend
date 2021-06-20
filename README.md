@@ -57,10 +57,10 @@
 </h5>
 
 <h5>
-    <a target="_blank" href="https://thisiskartikgupta.github.io/Seat-Book-Count-JS/">
+    <a target="_blank" href="https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2009%20-%20JavaScript%20this%20keyword">
         Day 09: this keyword in JavaScript
     </a>
-     = Seat Book Counter
+     = Play with this, bind(), apply(), call() and events
 </h5>
 
 --- 
