@@ -63,6 +63,13 @@
      = Play with this, bind(), apply(), call() and events
 </h5>
 
+<h5>
+    <a target="_blank" href="https://thisiskartikgupta.github.io/MEMCARDS">
+        Day 10: Functions in JavaScript
+    </a>
+     = Make a card based memory game
+</h5>
+
 --- 
 
 ### Mahasabha VC Session Work
