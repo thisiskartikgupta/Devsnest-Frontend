@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+
+.footer {
+    
+
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: #EEEEEE;
+    background-color: #040D15;
+}
+
+@media(min-height:754px) {
+    
+    .footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+}
+
+@media (min-width:600px) and (min-height:730px) {
+
+    .footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+}

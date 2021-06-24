@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Press+Start+2P&display=swap'); /* Lato and Press Start 2P */
+ 
+ main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+} 
+
+
+.card-grid-container {
+
+    display: grid;
+    grid-template-columns: repeat(4, 60px);
+    grid-auto-rows: 60px;
+    justify-content: center;
+    padding-bottom: 16px;
+}
+
+.card {
+    width: 50px;
+    height: 50px;
+    background: url("card_side_back.png");
+    background-size: 100% 100%;
+    border: 2px solid #FFC300;
+    /* background: url("card_side_back.png"); */
+    margin: 20px;
+}
+
+.performance-container {
+
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    text-align: center;
+}
+
+.performance-label {
+    padding: 8px;
+    margin:2px;
+
+    background-color: #022064;
+    
+    font-family: 'Noto Sans KR', sans-serif;
+    color:#FFC300;
+    border: 1px dashed #FFC300;
+}
+
+.number-container {
+    color: #EEEEEE;
+    font-family: 'Press Start 2P', cursive;
+    
+}
+
+@media(min-width: 600px) {
+
+    .card-grid-container {
+
+        display: grid;
+        grid-template-columns: repeat(6, 80px);
+        grid-auto-rows: 80px;
+        padding-bottom: 30px;
+    }
+
+    .card {
+        width: 75px;
+        height: 75px;
+    }
+
+    .performance-label {
+        padding: 10px 10px;
+    }
+}
+
+@media(min-width:1366px) {
+
+    main {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    .performance-container {
+
+        width: 10%;
+        flex-direction: column;
+    }
+
+    .label {
+        max-width: 20%;
+    }
+}
+
+@media(min-width: 1920px) {
+
+    .card-grid-container {
+
+        display: grid;
+        grid-template-columns: repeat(6, 100px);
+        grid-auto-rows: 100px;
+        padding-bottom: 30px;
+    }
+
+    .card {
+        width: 90px;
+        height: 90px;
+    }
+
+    .performance-label {
+        padding: 10px 10px;
+    }
+}
+
+/*--------------------------------------------------------------------------------*/
+/*                                     DO NOT ALTER BELOW CSS                     */
+/*--------------------------------------------------------------------------------*/
+.hidden-Card {
+    visibility: hidden;
+}
+
+.cardType0.front-facing {
+    background: url("1.png");
+    background-size: 100% 100%;
+}
+
+.cardType1.front-facing {
+    background: url("2.png");
+    background-size: 100% 100%;
+}
+
+.cardType2.front-facing {
+    background: url("3.png");
+    background-size: 100% 100%;
+}
+
+.cardType3.front-facing {
+    background: url("4.png");
+    background-size: 100% 100%;
+}
+
+.cardType4.front-facing {
+    background: url("5.png");
+    background-size: 100% 100%;
+}
+
+.cardType5.front-facing {
+    background: url("6.png");
+    background-size: 100% 100%;
+}
+
+.cardType6.front-facing {
+    background: url("7.png");
+    background-size: 100% 100%;
+}
+
+.cardType7.front-facing {
+    background: url("8.png");
+    background-size: 100% 100%;
+}
+
+.cardType8.front-facing {
+    background: url("9.png");
+    background-size: 100% 100%;
+}
+
+.cardType9.front-facing {
+    background: url("10.png");
+    background-size: 100% 100%;
+}
+
+.cardType10.front-facing {
+    background: url("11.png");
+    background-size: 100% 100%;
+}
+
+.cardType11.front-facing {
+    background: url("12.png");
+    background-size: 100% 100%;
+}
+
+.cardType12.front-facing {
+    background: url("13.png");
+    background-size: 100% 100%;
+}
+
+.cardType13.front-facing {
+    background: url("14.png");
+    background-size: 100% 100%;
+}
+
+.cardType14.front-facing {
+    background: url("15.png");
+    background-size: 100% 100%;
+}
+
+.cardType15.front-facing {
+    background: url("16.png");
+    background-size: 100% 100%;
+}
+
+.cardType16.front-facing {
+    background: url("17.png");
+    background-size: 100% 100%;
+}
+
+.cardType17.front-facing {
+    background: url("18.png");
+    background-size: 100% 100%;
+}
+
+.cardType18.front-facing {
+    background: url("19.png");
+    background-size: 100% 100%;
+}
+.cardType19.front-facing {
+    background: url("20.png");
+    background-size: 100% 100%;
+}
+
+.cardType20.front-facing {
+    background: url("21.png");
+    background-size: 100% 100%;
+}
+
+.cardType21.front-facing {
+    background: url("22.png");
+    background-size: 100% 100%;
+}
+
+.cardType22.front-facing {
+    background: url("23.png");
+    background-size: 100% 100%;
+}
+
+.cardType23.front-facing {
+    background: url("24.png");
+    background-size: 100% 100%;
+}
+
+.cardType24.front-facing {
+    background: url("25.png");
+    background-size: 100% 100%;
+}
+
+.cardType25.front-facing {
+    background: url("26.png");
+    background-size: 100% 100%;
+}
+
+/*--------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------*/
+
