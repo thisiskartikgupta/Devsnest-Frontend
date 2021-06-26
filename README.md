@@ -70,6 +70,13 @@
      = Make a card based memory game
 </h5>
 
+<h5>
+    <a target="_blank" href="https://thisiskartikgupta.github.io/TODO-Lets-Do">
+        Day 12: Synchronous And Asynchronous Javascript
+    </a>
+     = Make a TODO list using localStorage
+</h5>
+
 --- 
 
 ### Mahasabha VC Session Work
