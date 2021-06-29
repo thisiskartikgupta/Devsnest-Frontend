@@ -77,6 +77,21 @@
      = Make a TODO list using localStorage
 </h5>
 
+<h5>
+    <a target="_blank" href="https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2013%20-%20Promises%20%2C%20Async%20and%20Await%20in%20Javascript">
+        Day 13: Promises, Async and Await in JS
+    </a>
+     = Make a website using API
+</h5>
+
+<h5>
+    <a target="_blank" href="https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2015%20-%20React%20Basics/THA">
+        Day 15: React Basics
+    </a>
+     = Print Hello World using React
+</h5>
+
+
 --- 
 
 ### Mahasabha VC Session Work
