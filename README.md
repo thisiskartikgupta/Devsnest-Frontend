@@ -71,6 +71,13 @@
 </h5>
 
 <h5>
+    <a target="_blank" href="https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2011%20-%20Prototypical%20Inheritance%20in%20JS/Side%20Notes">
+        Day 11: Prototypical Inheritance
+    </a>
+     = Make a quiz app using JS
+</h5>
+
+<h5>
     <a target="_blank" href="https://thisiskartikgupta.github.io/TODO-Lets-Do">
         Day 12: Synchronous And Asynchronous Javascript
     </a>
