@@ -1,0 +1,56 @@
+
+.Card-container {
+    background-color: #11080f;
+    display:flex;
+    flex-direction: column;
+
+    width: 350px;
+    height: 225px;
+
+    border-radius: 16px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.main-card-image {
+    width: 100%;
+    height: 60%;
+    border-radius:5px;
+}
+
+.card-bottom-container {
+    margin-top: 4px;
+    padding: 5px 8px;
+    background-color: #11080f;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.icon-card-image {
+    width:25px;
+    height:25px;
+    border-radius: 20px;
+
+}
+
+.card-info {
+    padding-left: 8px;
+    background-color: #11080f;
+    display: flex;
+    flex-direction: column;
+}
+.Card-text {
+    padding-left: 8px;
+    color:#EEE;
+    background-color: #11080f;
+    font-size: 16px;
+}
+
+.Card-author {
+    padding-left: 8px;
+    color:#BBB;
+    background-color: #11080f;
+    font-size: 14px;
+}
+
