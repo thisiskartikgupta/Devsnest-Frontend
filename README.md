@@ -98,6 +98,13 @@
      = Print Hello World using React
 </h5>
 
+<h5>
+    <a target="_blank" href="https://thisiskartikgupta-react-cards.netlify.app/">
+        Day 16(A): Installing React and Functional Components
+    </a>
+     = Make a card display React app 
+</h5>
+
 
 --- 
 
