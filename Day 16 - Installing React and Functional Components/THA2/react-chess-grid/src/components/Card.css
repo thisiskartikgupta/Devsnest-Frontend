@@ -1,0 +1,21 @@
+
+.Card-container {
+    background-color: #11080f;
+    display:flex;
+    flex-direction: column;
+
+    width: 50px;
+    height: 50px;
+
+}
+
+.Card-container.odd:nth-child(even) {
+    background-color: #EEE;
+}
+
+.Card-container.even:nth-child(odd){
+    background-color:#EEE;
+}
+
+
+

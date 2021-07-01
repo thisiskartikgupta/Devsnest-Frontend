@@ -1,0 +1,15 @@
+
+.Card-master {
+    display: grid;
+    grid-template-columns: repeat(8,50px);
+    align-self: center;
+    margin: auto;
+
+    border: 8px double #DCC500;
+}
+
+.Card-master-container {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}

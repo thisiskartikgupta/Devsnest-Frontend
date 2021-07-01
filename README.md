@@ -105,6 +105,15 @@
      = Make a card display React app 
 </h5>
 
+<h5>
+    <a target="_blank" href="https://react-chess-grid-thisiskartikgupta.netlify.app/">
+        Day 16(B): Installing React and Functional Components
+    </a>
+     = Make a chess grid card application using React
+</h5>
+
+
+
 
 --- 
 
