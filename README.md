@@ -112,8 +112,12 @@
      = Make a chess grid card application using React
 </h5>
 
-
-
+<h5>
+    <a target="_blank" href="https://thisiskartikgupta-scrollview.web.app/">
+        Day 17: JSX and React Props
+    </a>
+     = Make a scroll view in React 
+</h5>
 
 --- 
 
@@ -125,5 +129,3 @@
     </a>
      = Create a calculator that does add, multiply, subtract etc. (with use of event Listeners)
 </h5>
-
-
