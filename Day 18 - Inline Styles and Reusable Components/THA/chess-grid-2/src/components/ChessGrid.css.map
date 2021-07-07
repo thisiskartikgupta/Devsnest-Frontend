@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,MAAO;EACH,gBAAgB,EAHX,OAAO;;AAWhB,SAAU;EAJN,WAAW,EAAE,GAAG;EAChB,iBAAiB,EAAE,SAAS;EAK5B,KAAK,EAbA,OAAO",
+"sources": ["ChessGrid.scss"],
+"names": [],
+"file": "ChessGrid.css"
+}

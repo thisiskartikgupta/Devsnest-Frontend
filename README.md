@@ -119,6 +119,14 @@
      = Make a scroll view in React 
 </h5>
 
+<h5>
+    <a target="_blank" href="https://chess-grid-2-tikg.netlify.app/">
+        Day 18: Inline Styles and Reusable Components
+    </a>
+     = Make a chess grid using resuable components
+</h5>
+
+
 --- 
 
 ### Mahasabha VC Session Work
