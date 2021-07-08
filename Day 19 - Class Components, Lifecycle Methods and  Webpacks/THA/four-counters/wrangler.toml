@@ -1,0 +1,11 @@
+name = "four-counters"
+type = 'webpack'
+account_id = 'd7e7b985fb68b6603c847f5c824ebbd2'
+route = ''
+zone_id = ''
+usage_model = ''
+workers_dev = true
+target_type = "webpack"
+[site]
+bucket = "./build" 
+entry-point = "workers-site"
