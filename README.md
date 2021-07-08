@@ -40,6 +40,7 @@ NAME : ```KARTIK GUPTA``` | TEAM : ```TEAM ZEUS``` | DISCORD: ```thisiskartikgup
 | | | ```(b)Make a chess grid card application using React``` | [**THA16B**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2016%20-%20Installing%20React%20and%20Functional%20Components/THA2/react-chess-grid) | [_LIVE SITE (Netlify)_](https://react-chess-grid-thisiskartikgupta.netlify.app/)
 **17** | _JSX and React Props_ | ```Make a scroll view in React``` | [**THA17**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2017%20-%20JSX%20and%20React%20Props/THA/react-scroll-view) | [_LIVE SITE (Firebase)_](https://thisiskartikgupta-scrollview.web.app/)
 **18** | _Inline Styles and Reusable Components_ | ```Make a chess grid using resuable components``` | [**THA18**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2018%20-%20Inline%20Styles%20and%20Reusable%20Components/THA/chess-grid-2) | [_LIVE SITE (Netlify)_](https://chess-grid-2-tikg.netlify.app/)
+**19** | _Class Components, Lifecycle Methods, Webpacks_ | ```Make a React app having 4 counters with each managing their own state``` | [**THA19**]() | [_LIVE_SITE (Cloudflare)_](https://four-counters.thisiskartikgupta.workers.dev/)
 
 ---
 
