@@ -23,7 +23,7 @@ NAME : ```KARTIK GUPTA``` | TEAM : ```TEAM ZEUS``` | DISCORD: ```thisiskartikgup
 | __DAY__ | __TOPIC__ | __THA__ | __REPO LINK__ | __LIVE LINK__ |
 | --- | --- | --- | --- | --- |
 **01** | _Introduction to HTML_ | ```Create a letter template as per given image``` | [**THA01**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2001%20-%20Introduction%20to%20HTML) |
-**02** | _Introduction to CSS_ | ```Style the letter template from pervious THAusing CSS``` | [**THA02**](https://github.com/thisiskartikgupta/Devsnest-Frontend/blob/main/Day%2002%20-%20Introduction%20to%20CSS) |
+**02** | _Introduction to CSS_ | ```Style the letter template from prrvious THA using CSS``` | [**THA02**](https://github.com/thisiskartikgupta/Devsnest-Frontend/blob/main/Day%2002%20-%20Introduction%20to%20CSS) |
 **03** | _Continuing with CSS_ | ```Create a resume template as per given image with use of CSS and HTML``` | [**THA03**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2003%20-%20Continuing%20with%20CSS) |
 **04** | _Position, Display, Overflow in CSS_ | ```Make an analog clock``` | [**THA04**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2004%20-%20Position%2C%20Display%2C%20Overflow) |
 **05** | _Introduction to Javascript_ | ```Covering the basics``` | [**THA05**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2005%20-%20Introduction%20to%20Javascript) |
