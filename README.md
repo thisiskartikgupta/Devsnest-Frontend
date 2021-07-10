@@ -41,6 +41,7 @@ NAME : ```KARTIK GUPTA``` | TEAM : ```TEAM ZEUS``` | DISCORD: ```thisiskartikgup
 **17** | _JSX and React Props_ | ```Make a scroll view in React``` | [**THA17**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2017%20-%20JSX%20and%20React%20Props/THA/react-scroll-view) | [_LIVE SITE (Firebase)_](https://thisiskartikgupta-scrollview.web.app/)
 **18** | _Inline Styles and Reusable Components_ | ```Make a chess grid using resuable components``` | [**THA18**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2018%20-%20Inline%20Styles%20and%20Reusable%20Components/THA/chess-grid-2) | [_LIVE SITE (Netlify)_](https://chess-grid-2-tikg.netlify.app/)
 **19** | _Class Components, Lifecycle Methods, Webpacks_ | ```Make a React app having 4 counters with each managing their own state``` | [**THA19**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2019%20-%20Class%20Components%2C%20Lifecycle%20Methods%20and%20%20Webpacks/THA) | [_LIVE_SITE (Cloudflare)_](https://four-counters.thisiskartikgupta.workers.dev/)
+**20** | _React Hooks, Event and State_ | ```Make a scroll view and implement delete functionality in React``` | [**THA20**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2020%20-%20React%20Hooks%2C%20Event%20and%20States/THA) | [_LIVE_SITE (Vercel)_](https://thisiskartikgupta-scroll-view-2.vercel.app/)
 
 ---
 
