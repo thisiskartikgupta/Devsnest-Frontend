@@ -1,0 +1,38 @@
+.add-todo-section {
+
+    width: 360px;
+    height: 360px;
+    border-radius: 36px;
+    padding: 20px;
+    margin: 150px 20px 50px 20px ;
+    background-color: #123;
+    color: #EEE;
+}
+
+.textfield-class{
+    border-radius: 25px;
+    width: 280px;
+    height: 50px;
+    margin: 28px 0px;
+}
+
+.button-class {
+    margin:28px 0px;
+    width: 280px;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 25px;
+    background-color: lawngreen;
+}
+
+.mdc-button--raised:not(:disabled), .mdc-button--unelevated:not(:disabled) {
+    background-color: #468606;
+}
+
+ .mdc-text-field:not(.mdc-text-field--disabled) .mdc-floating-label {
+    color: #468606;
+}
+
+.mdc-text-field .mdc-line-ripple{
+    background-color: #468606;
+}

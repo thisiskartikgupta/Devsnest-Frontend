@@ -1,0 +1,45 @@
+.list-item {
+
+    width: auto;
+    padding: 10px 25px;
+    margin-bottom: 5px;
+    text-align: left;
+    
+    background-color: #23124b;
+    border-radius: 8px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.list-item-title {
+
+    font-size:20px;
+    font-weight: bold;
+    background-color: #23124b;
+    color:#EEE;
+}
+
+.list-item-text {
+    font-size: 14px;
+    background-color: #23124b;
+    color:#CCC;
+}
+
+.subtext {
+    display: inline;
+    background-color: #23124b;
+}
+
+.list-item-edit-button.mdc-button--raised:not(:disabled), .mdc-button--unelevated:not(:disabled) {
+    background-color: rgb(5, 99, 5);
+    border-radius: 16px;
+    margin-left: 8px;
+}
+
+
+.list-item-delete-button.mdc-button--raised:not(:disabled), .mdc-button--unelevated:not(:disabled) {
+    background-color: #C22;
+    border-radius: 16px;
+    margin-left: 8px;
+}

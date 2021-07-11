@@ -1,0 +1,34 @@
+.todo-display-section {
+    
+    width: 400px;
+    height: 440px;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 100px 20px 50px 20px ;
+    background-color: #123;
+    color: #EEE;    
+
+    overflow-y: auto;
+}
+
+.todo-display-section::-webkit-scrollbar {
+    background: #124;
+    color:#969696;
+    width: 5px;
+} 
+
+.todo-display-section::-webkit-scrollbar-button {
+    background: #6aeeff;
+    color:#969696;
+    height: 5px;
+}
+
+.todo-display-section::-webkit-scrollbar-track-piece {
+    background: #00f;
+    color:#969696;
+}
+
+.todo-display-section::-webkit-scrollbar-thumb {
+    background: #c22;
+    color:#969696;
+}
