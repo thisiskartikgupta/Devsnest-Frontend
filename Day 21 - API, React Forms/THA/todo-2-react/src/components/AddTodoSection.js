@@ -43,7 +43,7 @@ const AddTodoSection = (props) => {
                 raised={true}
                 onClick={() => {
                     // console.log(inputFoodItemName,inputCalories);
-                    props.addListItem(inputFoodItemName.value,inputCalories.value)
+                    props.addListItem(inputFoodItemName.value, inputCalories.value, false);
                 }}
                 >
                 ADD +

@@ -28,8 +28,8 @@ function App() {
 
   
 
-  const addListItem = (inputFoodName, inputCalories) => { 
-     setListItem([...listItem, {foodName: inputFoodName, calories: inputCalories}]);
+  const addListItem = (inputFoodName, inputCalories, editStatus) => { 
+     setListItem([...listItem, {foodName: inputFoodName, calories: inputCalories, editIsActive: false}]);
   }
 
   const deleteListItem = (deleteIndex) => {
@@ -52,7 +52,7 @@ function App() {
     if(updatedListItem[index].editIsActive === false)
       updatedListItem[index].editIsActive = true;
 
-    setListItem(updatedListItem);
+      setListItem(updatedListItem);
   }
 
   const setIsEditableFalse = (index) => {
