@@ -9,7 +9,7 @@ _A mentorship program designed to help you get your dream job. It evolves as per
 
 __*[Devsnest Course Processes and Flows](https://www.notion.so/Devsnest-Course-Processes-and-Flows-5d14822666bd48e9ae601a241555b4c3)*__
 
-NAME : ```KARTIK GUPTA``` | TEAM : ```TEAM ZEUS``` | DISCORD: ```thisiskartikgupta#4783``` |
+NAME : ```KARTIK GUPTA``` | TEAM : ```TEAM ALPHA GEEKS``` | DISCORD: ```thisiskartikgupta#4783``` |
 --- | --- | --- |
 
 ---
