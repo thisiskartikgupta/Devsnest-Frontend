@@ -7,7 +7,6 @@ const TodoDisplaySection = (props) => {
     return(
         <div className="todo-display-section" >
             
-            {/* <ListItemEdit foodName="test" calories={2} updateListItem={props.updateListItem}/> */}
             {
                 [...props.listItemState].map((element,index) => {
                 
@@ -20,13 +19,13 @@ const TodoDisplaySection = (props) => {
                                              />
 
                     else
-                    return (<ListItemView foodName={element.foodName}
-                                  calories={element.calories}
-                                  key={index} 
-                                  deleteListItem={props.deleteListItem} 
-                                  position={index}
-                                  setIsEditableTrue={props.setIsEditableTrue}
-                                  />)})
+                        return (<ListItemView foodName={element.foodName}
+                                    calories={element.calories}
+                                    key={index} 
+                                    deleteListItem={props.deleteListItem} 
+                                    position={index}
+                                    setIsEditableTrue={props.setIsEditableTrue}
+                                    />)})
             }
             
         </div>

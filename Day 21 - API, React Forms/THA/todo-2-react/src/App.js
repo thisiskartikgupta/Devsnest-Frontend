@@ -28,8 +28,16 @@ function App() {
 
   
 
-  const addListItem = (inputFoodName, inputCalories, editStatus) => { 
-     setListItem([...listItem, {foodName: inputFoodName, calories: inputCalories, editIsActive: false}]);
+  const addListItem = (inputFoodName, inputCalories) => { 
+     
+    if(inputCalories === '') 
+        inputCalories = 0;  
+    
+    if(inputFoodName === '')  
+        alert("Food Name cannot be empty");
+
+    else 
+        setListItem([...listItem, {foodName: inputFoodName, calories: inputCalories, editIsActive: false}]);
   }
 
   const deleteListItem = (deleteIndex) => {

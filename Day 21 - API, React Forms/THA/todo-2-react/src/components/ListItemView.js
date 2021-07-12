@@ -1,38 +1,46 @@
+//Material UI imports
 import '@material/react-button/dist/button.css';
 import Button from '@material/react-button';
 import MaterialIcon from '@material/react-material-icon';
 
+//CSS imports
 import './ListItemView.css';
+
 
 const ListItemView = (props) => {
 
-    let fontColor = props.calories < 120 
-                        ? "#0e0"
-                        : props.calories < 300 
-                            ? "#ff0"
-                            : "#e00";
+    let CALORIE_FONTCOLOR = props.calories < 120 ? "#0e0" : (props.calories < 300 ? "#ff0" : "#e00");
 
     return(
         <div className="list-item">
 
+
             <div className="list-content">
-                <div className="list-item-title">{props.foodName}</div>
+
+                <div className="list-item-title">
+                    {props.foodName}
+                </div>
 
                 <div className="list-item-text">
+
                     <div className="subtext">You have consumed </div>
+
                     <div className="subtext"
-                         style = {{color: fontColor}}>{props.calories}</div>
+                         style = {{color: CALORIE_FONTCOLOR}}
+                         >
+                             {props.calories}</div>
+
                     <div className="subtext"> cal today.</div>
+
                 </div>
+
             </div>
             
             <Button className="list-item-edit-button"
-                raised={true}
-                onClick={()=>{
-                    console.log(props);
-                    props.setIsEditableTrue(props.position);
-                }
-                }
+                    raised={true}
+                    onClick={()=>{
+                        props.setIsEditableTrue(props.position);
+                    }}
                 >
                 <MaterialIcon role="button" icon="edit"/>
             </Button>

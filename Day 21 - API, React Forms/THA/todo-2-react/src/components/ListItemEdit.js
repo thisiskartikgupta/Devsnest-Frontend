@@ -1,4 +1,4 @@
-import { useState} from 'react';
+import {useState} from 'react';
 
 import TextField, {Input} from '@material/react-text-field';
 import MaterialIcon from '@material/react-material-icon';
@@ -40,7 +40,6 @@ const ListItemEdit = (props) => {
             <Button className="list-item-save-button"
                 raised={true}
                 onClick={()=>{
-                    // console.log(newFoodName,newCalories);
                     props.updateListItem(props.position, newFoodName,newCalories);
                     props.setIsEditableFalse(props.position);
                 }}

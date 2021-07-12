@@ -1,13 +1,13 @@
 import { useState } from 'react';
 
 import '@material/react-text-field/dist/text-field.css';
+import '@material/react-button/dist/button.css';
 import TextField, {Input} from '@material/react-text-field';
 import MaterialIcon from '@material/react-material-icon';
-
 import Button from '@material/react-button';
-import '@material/react-button/dist/button.css';
 
 import './AddTodoSection.css';
+
 
 const AddTodoSection = (props) => {
 
@@ -43,7 +43,9 @@ const AddTodoSection = (props) => {
                 raised={true}
                 onClick={() => {
                     // console.log(inputFoodItemName,inputCalories);
-                    props.addListItem(inputFoodItemName.value, inputCalories.value, false);
+                    props.addListItem(inputFoodItemName.value, inputCalories.value);
+                    setInputFoodItemName({value:""})
+                    setInputCalories({value: ''})
                 }}
                 >
                 ADD +
