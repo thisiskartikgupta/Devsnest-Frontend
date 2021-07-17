@@ -43,7 +43,7 @@ NAME : ```KARTIK GUPTA``` | TEAM : ```TEAM ALPHA GEEKS``` | DISCORD: ```thisiska
 **19** | _Class Components, Lifecycle Methods, Webpacks_ | ```Make a React app having 4 counters with each managing their own state``` | [**THA19**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2019%20-%20Class%20Components%2C%20Lifecycle%20Methods%20and%20%20Webpacks/THA) | [_LIVE_SITE (Cloudflare)_](https://four-counters.thisiskartikgupta.workers.dev/)
 **20** | _React Hooks, Event and State_ | ```Make a scroll view and implement delete functionality in React``` | [**THA20**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2020%20-%20React%20Hooks%2C%20Event%20and%20States/THA) | [_LIVE_SITE (Vercel)_](https://thisiskartikgupta-scroll-view-2.vercel.app/)
 **21** | _API, React Forms_ | ```Make a calorie counter list with item editing functionality (using Material UI``` | [**THA21**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2021%20-%20API%2C%20React%20Forms/THA/) | [_LIVE_SITE (Netlify)_](https://todo-2-thisiskartikgupta.netlify.app/)
-**22** | _Meme Generator_ | ```Make a meme generator in React using API ``` | [**THA22*](https://github.com/thisiskartikgupta/meme-gen) | [_LIVE_SITE (AWS_Amplify)_](https://main.dxq2h6n100wda.amplifyapp.com/)
+**22** | _Meme Generator_ | ```Make a meme generator in React using API ``` | [**THA22**](https://github.com/thisiskartikgupta/meme-gen) | [_LIVE_SITE (AWS_Amplify)_](https://main.dxq2h6n100wda.amplifyapp.com/)
 
 ---
 
