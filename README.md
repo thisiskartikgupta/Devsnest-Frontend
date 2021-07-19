@@ -44,6 +44,8 @@ NAME : ```KARTIK GUPTA``` | TEAM : ```TEAM ALPHA GEEKS``` | DISCORD: ```thisiska
 **20** | _React Hooks, Event and State_ | ```Make a scroll view and implement delete functionality in React``` | [**THA20**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2020%20-%20React%20Hooks%2C%20Event%20and%20States/THA) | [_LIVE_SITE (Vercel)_](https://thisiskartikgupta-scroll-view-2.vercel.app/)
 **21** | _API, React Forms_ | ```Make a calorie counter list with item editing functionality (using Material UI``` | [**THA21**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2021%20-%20API%2C%20React%20Forms/THA/) | [_LIVE_SITE (Netlify)_](https://todo-2-thisiskartikgupta.netlify.app/)
 **22** | _Meme Generator_ | ```Make a meme generator in React using API ``` | [**THA22**](https://github.com/thisiskartikgupta/meme-gen) | [_LIVE_SITE (AWS_Amplify)_](https://main.dxq2h6n100wda.amplifyapp.com/)
+**23** | _Custom Hooks and React Router_ | | | |
+**24** | _State Management with Reducer and Context_ | ```Make a simple routing application in React``` | [**THA24**](https://github.com/thisiskartikgupta/) | [_LIVE_SITE (Netlify)_](https://basic-routing-thisiskartikgupta.netlify.app/)
 
 ---
 
