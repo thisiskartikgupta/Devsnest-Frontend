@@ -1,0 +1,30 @@
+.form-view-container {
+    background-color: rgb(3,0,39);
+    color: #EEE;
+    width: 500px;
+    border-radius: 16px;
+    padding: 16px;
+    margin: 40px;
+}
+
+.form-view-container .form-view-label {
+    text-align:center;
+    font-style:italic;
+    padding: 4px;
+    margin-left: 6%;
+    margin-top: 2%;
+    margin-bottom: 2%   ;
+    padding: 2%;
+}
+
+.form-view-container .form-view-field {
+    border: 2px solid #EEE;
+    border-radius: 16px;
+    padding: 2px 10px;
+    width: 80%;
+    overflow: hidden; 
+    margin-left: 6%;
+    margin-top: 2%;
+    margin-bottom: 2%   ;
+    padding: 2%;
+}

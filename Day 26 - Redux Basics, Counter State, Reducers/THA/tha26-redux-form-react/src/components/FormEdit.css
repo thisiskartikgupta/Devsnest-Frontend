@@ -1,0 +1,17 @@
+.form-edit-container {
+    margin: 40px;
+    background-color: rgb(3, 0, 39);
+    width: 500px;
+    border-radius: 16px;
+    padding: 16px;
+}
+
+.form-edit-container .form-input-field {
+    margin-left: 6%;
+    margin-top: 5%;
+    margin-bottom: 5%   ;
+    padding: 2%;
+    display: block;
+    width: 80%;
+    border-radius: 16px;
+}
