@@ -1,4 +1,4 @@
 import {createStore} from 'redux';
-import formReducer from './formReducer';
+import rootReducer from './rootReducer';
 
-export const formStore = createStore(formReducer);
+export const formStore = createStore(rootReducer);

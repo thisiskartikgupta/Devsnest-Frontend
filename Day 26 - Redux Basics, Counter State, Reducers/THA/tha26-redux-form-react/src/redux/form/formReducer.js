@@ -11,22 +11,17 @@ const formReducer = (state = formInitialState, action) => {
     switch (action.type) {
 
         case UPDATE_USERNAME:
-            console.log("Username updated");
-            break;
+            return {...state, username: action.payload};
 
         case UPDATE_EMAIL:
-            console.log("Email updated");
-            break;
+            return {...state, email: action.payload};
 
         case UPDATE_PASSWORD:
-            console.log("Password updated");
-            break;
+            return {...state, password: action.payload};
 
         default:
-            console.log("Unknown action");
+            return state;
     }
-
-    return state;
 };
 
 export default formReducer;
