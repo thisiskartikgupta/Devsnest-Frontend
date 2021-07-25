@@ -46,6 +46,8 @@ NAME : ```KARTIK GUPTA``` | TEAM : ```TEAM ALPHA GEEKS``` | DISCORD: ```thisiska
 **22** | _Meme Generator_ | ```Make a meme generator in React using API ``` | [**THA22**](https://github.com/thisiskartikgupta/meme-gen) | [_LIVE_SITE (AWS_Amplify)_](https://main.dxq2h6n100wda.amplifyapp.com/)
 **23** | _Custom Hooks and React Router_ | | | |
 **24** | _State Management with Reducer and Context_ | ```Make a simple routing application in React``` | [**THA24**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2024%20-%20State%20Management%20with%20Context%20and%20Reducer/THA/tha24-react-routing) | [_LIVE_SITE (Netlify)_](https://basic-routing-thisiskartikgupta.netlify.app/)
+**25** | _Bootstrap and Tailwind - Concept and Usage_ | | | |    
+**26** | _Redux Basics, Counter State, Reducers_ | ```Make a simple form application in React using Redux``` | [**THA26**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2026%20-%20Redux%20Basics%2C%20Counter%20State%2C%20Reducers/THA/tha26-redux-form-react) | [_LIVE_SITE (Firebase)_](https://thisiskartikgupta-tha26-redux.web.app/)
 
 ---
 
