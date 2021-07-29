@@ -1,0 +1,32 @@
+.list-item {
+    background-color: #ccc;
+    padding: 2px;
+    margin: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.todotext {
+    min-width: 50%;
+    overflow-wrap: break-word;
+    padding: 8px;
+}
+
+@media(min-width: 1366px) {
+    .list-item {
+        background-color: #ccc;
+        padding: 2px;
+        margin: 2px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: 2px 10% 2px 10%;
+    }
+    
+    .todotext {
+        min-width: 30%;
+        overflow-wrap: break-word;
+        padding: 8px;
+    }
+}

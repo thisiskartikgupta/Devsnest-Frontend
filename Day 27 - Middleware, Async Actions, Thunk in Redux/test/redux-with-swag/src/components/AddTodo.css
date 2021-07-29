@@ -1,0 +1,24 @@
+
+.AddTodo {
+    background-color: #999;
+    padding: 1%;
+    border-radius: 16px;
+}
+
+.AddTodo .add-todo-input {
+    width: 90%;
+    padding: 2%;
+    font-size: 18px;
+    margin-left: 3%;    
+}
+
+.AddTodo .add-todo-button {
+
+    background-color: #111;
+    color: #EEE;
+    margin-top: 8px;
+    width: 90%;
+    padding: 10px;
+    margin-left: 4%;
+    border-radius: 16px;
+}

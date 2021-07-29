@@ -1,0 +1,13 @@
+.ShowTodo {
+    margin-top: 8px;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+@media(min-width: 1366px) {
+    .ShowTodo {
+        width: 40%;
+    }
+}

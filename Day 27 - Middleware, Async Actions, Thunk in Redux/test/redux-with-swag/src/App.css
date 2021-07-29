@@ -1,0 +1,21 @@
+* {
+    margin: 0; padding:0;
+    box-sizing: border-box;
+}
+
+.App {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.App .header {
+    background-color: #111;
+    color: #EEE;
+    margin: 2%;
+    padding: 1%;
+    border-radius: 16px;
+}
