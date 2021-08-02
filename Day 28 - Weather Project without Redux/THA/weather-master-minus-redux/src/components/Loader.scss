@@ -1,0 +1,16 @@
+.infinity-9 {
+  width:90px;
+  height:14px;
+  background: 
+    linear-gradient(90deg,#0000 16px, currentColor 0 30px, #0000 0),
+    radial-gradient(circle closest-side at 68% 50%, currentColor 92%,#0000),
+    conic-gradient(from   45deg at calc(100% - 7px) 50%,currentColor 90deg,#0000 0),
+    conic-gradient(from -135deg at             7px  50%,currentColor 90deg,#0000 0);
+  background-position: 0 0;
+  background-size:calc(3*100%/4) 100%;
+  background-repeat: repeat-x;
+  animation:i9 2s infinite linear;
+}
+@keyframes i9 {
+    100% {background-position: -300% 0}
+}
