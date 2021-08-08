@@ -46,9 +46,9 @@ const SearchBar = () => {
 
             <button
                 onClick={() => {
-                    setIsLoading(true); 
+                    setIsLoading(true);
                     getWeatherData(city);
-                    setAutoCompleteData([]);        
+                    setAutoCompleteData([]);
                     setCity("");
                 }}>SEARCH</button>
         
