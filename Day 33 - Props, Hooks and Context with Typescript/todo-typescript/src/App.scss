@@ -1,0 +1,26 @@
+body {
+  background-color: #123;
+}
+
+.App {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: all 2s;
+  -webkit-transition: all 2s;
+  -moz-transition: all 2s;
+  -ms-transition: all 2s;
+  -o-transition: all 2s;
+}
+
+.App-header {
+  margin-top: 10px;
+  font-size: 2rem;
+  top: 16px;
+  color: #EEE;
+}

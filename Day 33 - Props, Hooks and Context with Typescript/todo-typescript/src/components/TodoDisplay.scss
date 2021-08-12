@@ -1,0 +1,13 @@
+.TodoDisplay {
+    margin-top: 20px;
+}
+
+.TodoDisplay .listItem {
+    color: gold;
+    list-style: none;
+}
+
+.TodoDisplay .listItem.dark {
+    color: white;
+
+}
