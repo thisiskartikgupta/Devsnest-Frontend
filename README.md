@@ -1,21 +1,7 @@
-<h2>
-    <samp> D E V S N E S T &nbsp;-&nbsp; F R O N T E N D</samp>
-    <img align="right" src="https://github.com/thisiskartikgupta/Devsnest-Frontend/blob/main/readme_files/logo_devsnest.png" alt="Devsnest doc" width="120px" />
-</h2>
-<br/>
-
-__Education which makes you financially independent.__
-_A mentorship program designed to help you get your dream job. It evolves as per your needs to mould you into a kickass developer._
-
-__*[Devsnest Course Processes and Flows](https://www.notion.so/Devsnest-Course-Processes-and-Flows-5d14822666bd48e9ae601a241555b4c3)*__
-
-NAME : ```KARTIK GUPTA``` | TEAM : ```TEAM ALPHA GEEKS``` | DISCORD: ```thisiskartikgupta#4783``` |
---- | --- | --- |
-
 ---
 
 <h3 align="center">
-    <strong>TAKE HOME ASSIGNMENTS(THA)</strong>
+    <strong>WEB DEVELOPMENT FRONTEND </strong>
 </h3>
 
 ---
@@ -35,7 +21,7 @@ NAME : ```KARTIK GUPTA``` | TEAM : ```TEAM ALPHA GEEKS``` | DISCORD: ```thisiska
 **11** | _Prototypical Inheritance_ | ```Make a quiz app using JS``` | [**THA11**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2011%20-%20Prototypical%20Inheritance%20in%20JS/Side%20Notes) |
 **12** | _Synchronous And Asynchronous Javascript_ | ```Make a TODO list using localStorage``` | [**THA12**](https://github.com/thisiskartikgupta/TODO-Lets-Do) | [_LIVE SITE (GitHub Pages)_](https://thisiskartikgupta.github.io/TODO-Lets-Do/)
 **13** | _Promises, Async and Await in JS_ | ```Make a website using API``` | [**THA13**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2013%20-%20Promises%20%2C%20Async%20and%20Await%20in%20Javascript) |
-**15** | _React Basics_ | ```Print Hello World using React``` | [**THA15**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2015%20-%20React%20Basics/THA) | 
+**15** | _React Basics_ | ```Print Hello World using React``` | [**THA15**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2015%20-%20React%20Basics/THA) |
 **16** | _Installing React and Functional Components_ | ```(a)Make a card display React app ``` | [**THA16A**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2016%20-%20Installing%20React%20and%20Functional%20Components/THA/react-cards) | [_LIVE SITE (Netlify)_](https://thisiskartikgupta-react-cards.netlify.app/)
 | | | ```(b)Make a chess grid card application using React``` | [**THA16B**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2016%20-%20Installing%20React%20and%20Functional%20Components/THA2/react-chess-grid) | [_LIVE SITE (Netlify)_](https://react-chess-grid-thisiskartikgupta.netlify.app/)
 **17** | _JSX and React Props_ | ```Make a scroll view in React``` | [**THA17**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2017%20-%20JSX%20and%20React%20Props/THA/react-scroll-view) | [_LIVE SITE (Firebase)_](https://thisiskartikgupta-scrollview.web.app/)
@@ -46,20 +32,10 @@ NAME : ```KARTIK GUPTA``` | TEAM : ```TEAM ALPHA GEEKS``` | DISCORD: ```thisiska
 **22** | _Meme Generator_ | ```Make a meme generator in React using API ``` | [**THA22**](https://github.com/thisiskartikgupta/meme-gen) | [_LIVE_SITE (AWS_Amplify)_](https://main.dxq2h6n100wda.amplifyapp.com/)
 **23** | _Custom Hooks and React Router_ | | | |
 **24** | _State Management with Reducer and Context_ | ```Make a simple routing application in React``` | [**THA24**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2024%20-%20State%20Management%20with%20Context%20and%20Reducer/THA/tha24-react-routing) | [_LIVE_SITE (Netlify)_](https://basic-routing-thisiskartikgupta.netlify.app/)
-**25** | _Bootstrap and Tailwind - Concept and Usage_ | | | |    
+**25** | _Bootstrap and Tailwind - Concept and Usage_ | | | |
 **26** | _Redux Basics, Counter State, Reducers_ | ```Make a simple form application in React using Redux``` | [**THA26**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2026%20-%20Redux%20Basics%2C%20Counter%20State%2C%20Reducers/THA/tha26-redux-form-react) | [_LIVE_SITE (Firebase)_](https://thisiskartikgupta-tha26-redux.web.app/)
 **27** | _Middleware, Async Actions and thunk in Redux_ | ```Make a todo application in React using Redux``` | [**THA27**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2027%20-%20Middleware%2C%20Async%20Actions%2C%20Thunk%20in%20Redux/test/redux-with-swag) | [_LIVE_SITE (Cloudflare)_](https://thisiskartikgupta-redux-todo-tha27.thisiskartikgupta.workers.dev/)
+**28** | _Weather App in React_ | ```Make a weather application using React``` | [**THA28**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2028%20-%20Weather%20Project%20without%20Redux/THA/weather-master-minus-redux) | [_LIVE_SITE (Netlify)_](https://weather-app-no-css-thisiskartikgupta.netlify.app/)
 
 ---
 
-<h3 align="center">
-    <strong>MAHASABHA SESSIONS</strong>
-</h3>
-
----
-
-| __S.NO.__| __SESSION TOPIC__ | __DESCRIPTION__ |__LINK__ |
-| --- | --- | --- | --- |
-| A | __Calculator with Javascript__ | ```Create a calculator tha does add, multiply, subtract etc. (with use of event Listeners)``` |[_LINK_](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/0.%20Miscellaneous/Mahasabha%20VC%20Work/01.%20Calculator)
-| B | __Designing with Figma__ | ```A workshop on using Figma``` | [_LINK_](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/0.%20Miscellaneous/Mahasabha%20VC%20Work/03.%20Design%20and%20Figma)
-| C | __Cybersecurity by Harsh Bothra__ | ```A workshop on cybersecurity``` | [_LINK_](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/0.%20Miscellaneous/Mahasabha%20VC%20Work/04.%20Cybersecurity%20by%20Harsh%20Bothra)
